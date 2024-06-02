@@ -1,7 +1,7 @@
 ###GET ALL PERSONS
 GET http://localhost:8080/api/v1/persons
 
-<> 2024-06-02T231343.200.json
+<> 2024-06-02T231343.200.n
 <> 2024-06-02T223045.200.json
 
 ###GET PERSON WITH ID

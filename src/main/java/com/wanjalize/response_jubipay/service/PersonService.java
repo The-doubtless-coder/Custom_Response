@@ -3,7 +3,7 @@ package com.wanjalize.response_jubipay.service;
 import com.wanjalize.response_jubipay.model.Person;
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
-import request.PersonRequest;
+import com.wanjalize.response_jubipay.request.PersonRequest;
 
 import java.util.ArrayList;
 import java.util.Comparator;

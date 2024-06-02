@@ -1,7 +1,7 @@
 package com.wanjalize.response_jubipay.service;
 
 import com.wanjalize.response_jubipay.model.Person;
-import request.PersonRequest;
+import com.wanjalize.response_jubipay.request.PersonRequest;
 
 import java.util.List;
 import java.util.Optional;

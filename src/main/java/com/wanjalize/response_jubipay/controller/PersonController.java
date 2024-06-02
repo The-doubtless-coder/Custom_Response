@@ -8,7 +8,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import request.PersonRequest;
+import com.wanjalize.response_jubipay.request.PersonRequest;
 
 import java.util.List;
 import java.util.Optional;

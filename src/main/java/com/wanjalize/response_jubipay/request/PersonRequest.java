@@ -1,4 +1,4 @@
-package request;
+package com.wanjalize.response_jubipay.request;
 
 import lombok.Getter;
 import lombok.Setter;
